@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Soham  <br>🎓 BSc AIML Student (FY)  <br>💻 Exploring C, Python & SQL  <br>🤖 Passionate about AI & ML  <br>📈 Always learning new technologies  
+👋 Hi, I'm Soham  <br>🎓 BSc AIML Student (SY)  <br>💻 Exploring C, Python & SQL  <br>🤖 Passionate about AI & ML  <br>📈 Always learning new technologies  
 
 
 ## 🌐 Socials:
